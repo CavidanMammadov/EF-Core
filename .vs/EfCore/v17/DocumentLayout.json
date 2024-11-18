@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\EfCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\migrations\\20241117224452_createduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\migrations\\20241117224452_createduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\migrations\\20241117224452_createduserstable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\migrations\\20241117224452_createduserstable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\helper\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\helper\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\helper\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\helper\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|c:\\users\\user\\source\\repos\\efcore\\efcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E542854-1845-42DB-B255-C2553D5A52D9}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241117224452_CreatedUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Migrations\\20241117224452_CreatedUsersTable.cs",
+              "RelativeDocumentMoniker": "EfCore\\Migrations\\20241117224452_CreatedUsersTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Migrations\\20241117224452_CreatedUsersTable.cs",
+              "RelativeToolTip": "EfCore\\Migrations\\20241117224452_CreatedUsersTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:58:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241117224452_CreatedUsersTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Migrations\\20241117224452_CreatedUsersTable.Designer.cs",
+              "RelativeDocumentMoniker": "EfCore\\Migrations\\20241117224452_CreatedUsersTable.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Migrations\\20241117224452_CreatedUsersTable.Designer.cs",
+              "RelativeToolTip": "EfCore\\Migrations\\20241117224452_CreatedUsersTable.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:59:23.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Helper\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "EfCore\\Helper\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Helper\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "EfCore\\Helper\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:57:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Helper\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "EfCore\\Helper\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Helper\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "EfCore\\Helper\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:57:04.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCore",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\EfCore.csproj",
+              "RelativeDocumentMoniker": "EfCore\\EfCore.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\EfCore.csproj",
+              "RelativeToolTip": "EfCore\\EfCore.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T17:57:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EfCore\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EfCore\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:21:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Basket.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Models\\Basket.cs",
+              "RelativeToolTip": "EfCore\\Models\\Basket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:17:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Models\\Product.cs",
+              "RelativeToolTip": "EfCore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:17:01.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Models\\User.cs",
+              "RelativeToolTip": "EfCore\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:16:47.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Program.cs",
+              "RelativeDocumentMoniker": "EfCore\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EfCore\\EfCore\\Program.cs",
+              "RelativeToolTip": "EfCore\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:10:24.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
